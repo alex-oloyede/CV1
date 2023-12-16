@@ -36,9 +36,6 @@
         <p>St.Petersburg, Russia</p>
         <h3>Contact</h3>
         <p>+7*********</p>
-        <p>abdullaholoyede@gmail</p>
-        <h3>Skills</h3>
-        <p><ul><li>Python expert</li><li>Website Creator</li><li>Speaks English</li></ul></p>
     </div>
 
 </body>
